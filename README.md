@@ -1,5 +1,5 @@
 
-# ![CarnivoreSuite CLAW](./Resources/CLAW.png)
+# ![CarnivoreSuite CLAW](./Resources/CLAW2.png)
 
 # Carnivore CLAW
 

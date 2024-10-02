@@ -29,6 +29,11 @@ CLAW can easily be adapted to be used for any number of motion sources you might
 
 <video src="./Resources/steps1and2.mp4"></video>
 
+
+
+
+
+
 Start by going into CS_Claw.blend template, and drag an .fbx file you have downloaded from Mixamo onto it.
 Trim the timeline to match where you want the animation to loop/end.
 

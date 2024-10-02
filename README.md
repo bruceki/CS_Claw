@@ -82,6 +82,8 @@ camera_list = [ # Ensure these all match the camera names in your scene
 
 ![Files being generated](./Resources/end.gif "Files being generated")
 
+   Just make a new script with + new, paste what you have, click the play button, and wait for it to complete. It will create the directory structure, populate each folder with frames, and use montage to combine them into a sprite sheet.
+   
 ---
 
 

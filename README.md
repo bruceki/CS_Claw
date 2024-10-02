@@ -1,7 +1,7 @@
  ![CarnivoreSuite CLAW](./Resources/CLAW3.png "CarnivoreSuite CLAW")
 # CarnivoreSuite CLAW
 
-**CarnivoreSuite CLAW** is a lightweight pipeline for creating 2D assets and sprite sheets from 3D models. It takes animations from as many cameras/directions as you designate in your scene, renders an animation for each, organizes them into folders, and uses Montage to stitch the individual frames together into a sprite sheet. This tool is game-engine agnostic, it only requires a copy of Blender to render your 3D model making it perfect for generating 2.5D, multi-directional sprite-based characters.
+**CarnivoreSuite CLAW** is a lightweight pipeline for creating 2D assets and sprite sheets from 3D models. It takes animations from as many cameras/directions as you designate in your scene, renders an animation for each, organizes them into folders, and uses Montage to stitch the individual frames together into a sprite sheet. This tool is game engine agnostic, it only requires a copy of Blender to render your 3D model making it perfect for generating 2.5D, multi-directional sprite-based characters.
 
 ---
 

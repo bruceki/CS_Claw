@@ -28,7 +28,7 @@ CLAW can easily be adapted to be used for any number of motion sources you might
 ### Importing Animations
 
 
-<video src='https://github.com/user-attachments/assets/f948b24f-a5ed-47e7-a6e4-a5a08e0ac756' width=180/>
+
 
 
 

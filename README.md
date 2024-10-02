@@ -1,12 +1,12 @@
  ![CarnivoreSuite CLAW](./Resources/CLAW3.png "CarnivoreSuite CLAW")
 # CarnivoreSuite CLAW
 
-**CarnivoreSuite CLAW** is a pipeline for creating 2D assets and sprite sheets from 3D models. It takes animations from as many cameras/directions as you designate in your scene, renders an animation for each, organizes them into folders, and uses Montage to stitch them together into a sprite sheet. This tool is game-engine agnostic, perfect for generating 2.5D, multi-directional sprite-based characters.
+**CarnivoreSuite CLAW** is a lightweight pipeline for creating 2D assets and sprite sheets from 3D models. It takes animations from as many cameras/directions as you designate in your scene, renders an animation for each, organizes them into folders, and uses Montage to stitch them together into a sprite sheet. This tool is game-engine agnostic, perfect for generating 2.5D, multi-directional sprite-based characters.
 
 ---
 
  ![8-sided character](./Resources/8-sided.gif "8-sided character example")
- <sub>Need a ton of individual sprite sheets like this rendered out for a 2.5D/2D billboarding character?</sub>
+ <sub>Need a ton of individual sprite sheets for different angles like this rendered out for a 2.5D/2D billboarding character? Rendering those 12 frames of animation 8 different times for 8 separate sprite directions can become extremely tedious after a while if you attempt to do this manually. Also useful for automating bump map generation and other types of maps and variants for your 2D/3D character.</sub>
 
 ## Installation
 

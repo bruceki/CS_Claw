@@ -27,6 +27,7 @@ CLAW can easily be adapted to be used for any number of motion sources you might
 
 ### Importing Animations
 
+![Tutorial steps 1 and 2](./Resources/steps1and2.gif "Tutorial steps 1 and 2")
     
 Start by going into CS_Claw.blend template, and drag an .fbx file you have downloaded from Mixamo onto it.
 Trim the timeline to match where you want the animation to loop/end.
@@ -78,6 +79,8 @@ camera_list = [ # Ensure these all match the camera names in your scene
 
 3. Run the script:
    Use the Blender Python API to run the script inside your Blender project. You can copy + paste the contents of CS_Claw.py in the Python folder over into your scripts panel in Blender and save it for future use.
+
+![Files being generated](./Resources/end.gif "Files being generated")
 
 ---
 

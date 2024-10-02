@@ -5,7 +5,8 @@
 
 ---
 
-
+ ![8-sided character](./Resources/8-sided.gif "8-sided character example")
+ <sub>Need a ton of individual sprite sheets like this rendered out for a 2.5D/2D billboarding character?</sub>
 
 ## Installation
 
